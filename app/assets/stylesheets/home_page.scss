@@ -1,0 +1,15 @@
+// Place all the styles related to the home_page controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+//= require 'element-ui/lib/theme-chalk/index'
+
+.container {
+  height: 100vh;
+  .center {
+    margin: auto;
+  }
+
+  .w-50-percent {
+    width: 50%;
+  }
+}
